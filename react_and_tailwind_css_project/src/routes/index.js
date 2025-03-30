@@ -1,0 +1,12 @@
+import { ProductDetail } from "../pages/product/ProductDetail";
+export { CategorySlider } from "../screen/hero/CategorySlider";
+export { Hero } from "../screen/hero/Hero";
+export { Home } from "../pages/home/Home";
+export {Footer} from "../components/common/Footer";
+export {Header} from "../components/common/Header";
+export {Layout} from "../components/common/Layout";
+export { ProductList } from "../screen/hero/ProductList";
+export { TopSeller } from "../screen/hero/TopSeller";
+export { Process } from "../screen/hero/Process";
+export { Trust } from "../screen/hero/Trust";
+export { TopCollection } from "../screen/hero/TopCollection";

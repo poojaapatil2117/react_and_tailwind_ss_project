@@ -64,6 +64,11 @@ This generates a `dist/` folder with optimized static assets. You can deploy thi
 - [Netlify](https://www.netlify.com/)
 - [GitHub Pages](https://pages.github.com/)
 
+## ScreenShot
+
+<img src="https://github.com/poojaapatil2117/react_and_tailwind_ss_project/blob/main/react_and_tailwind_css_project/SnapShot/Img1.png?raw=true">
+<img src="https://github.com/poojaapatil2117/react_and_tailwind_ss_project/blob/main/react_and_tailwind_css_project/SnapShot/Img2.png?raw=true">
+
 ## License
 This project is licensed under the MIT License.
 
